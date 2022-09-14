@@ -8,7 +8,7 @@ The project consists on developing an AI Contextual Chatbot called Cinebot. His 
 
 So far Cinebot is programmed to provide informations about A.I. - Artificial Intelligence by Steven Spielberg, nevertheless the JSON file, which contains the data, can always be copied with new information about any other movie, giving this project room for improvment.
 
-![AImovie.jpg](AI%20Contextual%20Chatbot%20-%20Cinebot%20bd0d6f1d4ce141ab9564e48adbb56fdd/AImovie.jpg)
+![Alt text](C:/Users/JoãoCabral/JC88Main/final_project/Final-Project/images/AImovie.jpg)
 
 # Dataset📄
 
@@ -19,7 +19,7 @@ The data is structured in the following way:
 - pattern - Bot identifies user input pattern
 - response - Responses for the bot to reply (hardcoded). Result is a random output of the available responses.
 
-![Untitled](AI%20Contextual%20Chatbot%20-%20Cinebot%20bd0d6f1d4ce141ab9564e48adbb56fdd/Untitled.jpeg)
+![Alt text](C:/Users/JoãoCabral/JC88Main/final_project/Final-Project/images/Untitled.jpeg)
 
 # Application Development🖥️
 
@@ -51,7 +51,7 @@ TFlearn is a modular deep learning library built on top of Tensorflow. It was de
 
 The model is than saved and ready to be applied.
 
-![chatbotbot.jpg](AI%20Contextual%20Chatbot%20-%20Cinebot%20bd0d6f1d4ce141ab9564e48adbb56fdd/chatbotbot.jpg)
+![Alt text](C:/Users/JoãoCabral/JC88Main/final_project/Final-Project/images/chatbotbot.jpg)
 
 # Adding Context🧐
 
@@ -69,7 +69,7 @@ There are still sereval ways that we can improve this chat bot, the first one is
 
 Overall Cinebot can be an easy and fast tool for you to have movie information at hand, this way you can beat your friends in an argument regarding an Oscar winner for example 😏
 
-![MovieNetflixGIF.gif](AI%20Contextual%20Chatbot%20-%20Cinebot%20bd0d6f1d4ce141ab9564e48adbb56fdd/MovieNetflixGIF.gif)
+![Alt text](C:/Users/JoãoCabral/JC88Main/final_project/Final-Project/images/MovieNetflixGIF.gif)
 
 # Sources🧭
 
@@ -82,4 +82,4 @@ Overall Cinebot can be an easy and fast tool for you to have movie information a
 - [edureka.co/blog/how-to-make-a-chatbot-in-python/](https://www.edureka.co/blog/how-to-make-a-chatbot-in-python/)
 - [chatbotslife.com](https://chatbotslife.com/)
 
-![Sources.jpg](AI%20Contextual%20Chatbot%20-%20Cinebot%20bd0d6f1d4ce141ab9564e48adbb56fdd/Sources.jpg)
+![Alt text](C:/Users/JoãoCabral/JC88Main/final_project/Final-Project/images/Sources.jpg)

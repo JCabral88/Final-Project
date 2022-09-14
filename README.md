@@ -1,6 +1,6 @@
 # AI Contextual Chatbot - Cinebot
 
-# CINEBOT🤖
+# CINEBOT 🤖
 
 This is my final project for the Ironhack Data Analysis Bootcamp that took place in the Summer of 2022.
 
@@ -8,9 +8,9 @@ The project consists on developing an AI Contextual Chatbot called Cinebot. His 
 
 So far Cinebot is programmed to provide informations about A.I. - Artificial Intelligence by Steven Spielberg, nevertheless the JSON file, which contains the data, can always be copied with new information about any other movie, giving this project room for improvment.
 
-<img src="images/AImovie.jpg"  width="300" height="350">
+<img src="images/AImovie.jpg"  width="300" height="353">
 
-# Dataset📄
+# Dataset 📄
 
 The dataset used in this project was built by myself on Visual Studio and saved in a JSON file. It will work as a python dictionary.
 The data is structured in the following way:
@@ -21,13 +21,13 @@ The data is structured in the following way:
 
 ![Untitled](images/Untitled.jpeg)
 
-# Application Development🖥️
+# Application Development 🖥️
 
 In order for Cinebot to understand human language, the dataset had to suffer several transformations before we start interacting with him.
 
 The data went through several NLP stages for a model to be created and trained. Only this way the bot can understand and categorize the asked question.
 
-This step of the project is where AI is implemented.
+This phase of the project is where AI was implemented.
 
 ### NLP stage 1:
 
@@ -53,7 +53,7 @@ The model is than saved and ready to be applied.
 
 ![chatbotbot.jpg](images/chatbotbot.jpg)
 
-# Adding Context🧐
+# Adding Context 🧐
 
 In order to make life easier for the bot to reply I have created a context to user inputs.
 
@@ -64,14 +64,14 @@ Those processes are tokenization and stemming.
 
 # Conclusion🎓
 
-Building this chatbot with NLP techniques help me do it in an easier way rather than using pre defined libraries of python. Applying a Neural Network with TFlearn structure definitely enhances the output result of the chatbot due to the several node layers accuracy in predicting the output.
-There are still sereval ways that we can improve this chat bot, the first one is to add more different content to the dataset in order to have more information from more movies, the second one is to fit another model type, maybe from Keras, and check bot behaviour.
+Building this chatbot with NLP techniques help me do it in an easier way rather than using pre defined libraries of python. Applying a Neural Network with TFlearn structure definitely enhances the output result of the chatbot due to the multiple node layers accuracy in predicting the output.
+There are still several ways that we can improve this chat bot, the first one is to add more different content to the dataset in order to have more information from more movies, the second one is to fit another model type, maybe from Keras, and check bot behaviour.
 
 Overall Cinebot can be an easy and fast tool for you to have movie information at hand, this way you can beat your friends in an argument regarding an Oscar winner for example 😏
 
 ![MovieNetflixGIF.gif](images/MovieNetflixGIF.gif)
 
-# Sources🧭
+# Sources 🧭
 
 - [investopedia.com/terms/c/chatbot.asp](http://www.investopedia.com/terms/c/chatbot.asp)
 - [investopedia.com/terms/n/neuralnetwork.asp](https://www.investopedia.com/terms/n/neuralnetwork.asp)

@@ -8,7 +8,7 @@ The project consists on developing an AI Contextual Chatbot called Cinebot. His 
 
 So far Cinebot is programmed to provide informations about A.I. - Artificial Intelligence by Steven Spielberg, nevertheless the JSON file, which contains the data, can always be copied with new information about any other movie, giving this project room for improvment.
 
-<img src="images/AImovie.jpg"  width="300" height="353">
+<img src="images/AImovie.jpg"  width="300" height="355">
 
 # Dataset 📄
 
@@ -62,7 +62,7 @@ This context, filters ‘tag’ content in the dataset and searches for best cor
 The user input is also victim of NLP for cleaning and structuring the text for bot analysis.
 Those processes are tokenization and stemming.
 
-# Conclusion🎓
+# Conclusion 🎓
 
 Building this chatbot with NLP techniques help me do it in an easier way rather than using pre defined libraries of python. Applying a Neural Network with TFlearn structure definitely enhances the output result of the chatbot due to the multiple node layers accuracy in predicting the output.
 There are still several ways that we can improve this chat bot, the first one is to add more different content to the dataset in order to have more information from more movies, the second one is to fit another model type, maybe from Keras, and check bot behaviour.

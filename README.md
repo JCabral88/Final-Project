@@ -8,7 +8,7 @@ The project consists on developing an AI Contextual Chatbot called Cinebot. His 
 
 So far Cinebot is programmed to provide informations about A.I. - Artificial Intelligence by Steven Spielberg, nevertheless the JSON file, which contains the data, can always be copied with new information about any other movie, giving this project room for improvment.
 
-![AImovie.jpg]<img src="images/AImovie.jpg"  width="300" height="350">
+<img src="images/AImovie.jpg"  width="300" height="350">
 
 # Dataset📄
 

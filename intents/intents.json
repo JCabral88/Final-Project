@@ -69,7 +69,7 @@
         },
         {
             "tag": "nominees",
-            "patterns": [ "Whas the movie nominated for anything?", "Any nominations for this movie?" ],
+            "patterns": [ "Was the movie nominated for anything?", "Any nominations for this movie?" ],
             "responses": [ "The movie was nominated for Best Visual Effects and Best Original Score at the 74th Oscar Academy Awards. Frances O'Connor was nominated for also nominated for Best Actress and Steven Spielberg for Best Director. In 2002 A.I. was nominated for the BAFTA Awards" ]
         },
         {
